@@ -1,0 +1,5 @@
+100000, 2, 2, 3             ! Np, nspec, ndim, nsx
+100, 10, 1e-3, 1.0, 1.0     ! tot, dt, Dtot, kappa, beta
+0, 10                       ! Define domain boundaries
+0, 10                       !
+1,5,9           ! List of nsx discretizations
